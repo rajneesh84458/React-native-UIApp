@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ddd39d7893a837b48fc49b699b39f5cf04124948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_a4faf396c8a98b46ea85dd2bc92f3db7022b457f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_75a5e2b49c718e0c0477ef30bf4c30ccf7d012a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_3e4ea17c318e24ade760584641e61f82715b88b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.1.1_63addfd4b85983d31ebe6ca9fed6e1d188d25c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\common-1.1.0_01585967ace2256f48bbcb5101e9ca2118a49cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0d6528dfeb93f8c5cf0aa9cd4ddd0fd9e89cf5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\viewmodel\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-viewmodel-1.1.0_0038faf6e258aaed54c9a3e981b6c163ce547323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\livedata-core\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-livedata-core-1.1.0_dce98cc3b2ec35aed4b3a7e279d3ac0fdf123178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_b04ab5c7a8678a89bd11899976de663f19e22a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.1.1_24763d6ff79ca4b84e922d3bd396fa8f735efd32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\common-1.1.0_9e396fec8b48fe47283aea974d5846cf3ca317a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_abad2b39ed2494d0bd28571dacbf1357d289e279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_76fcaa5ad9d0f6395ad5a8f4667517b6c96bde62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_0b823d5bc38ed3cc8856a9602317801acaed7117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.1.1_72d8013ea7e47d407fb65dd4909f256301c540ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_1307a3e30a091c900babc91602d0fa3de7d24e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_c59affeae47882fdfb2b102e54293dff7a83715c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.1.1_9600344cf088568aa45b0101247b071865c360eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.airbnb.android\lottie\2.5.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5524d0add10caa159d69f48f284aa52dcc0b62ba">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.airbnb.android-lottie-2.5.5_dc89ca99e57d112f5a14b7f9445bbfed31da0873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\hellooo\lottie-react-native\unspecified\release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8716c271d13c2c0fd2f713dde8ddb5c03f783863">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\lottie-react-native-unspecified-release_78c2a731aaac25684e20931a884fe04f8194b3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\hellooo\react-native-view-shot\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="adfd07842405cbb907469049f3ad52ad2f48736c">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\hellooo-react-native-view-shot-unspecified_dcdedd48bcdc5f0296e52b81b9fa560d31e9963b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_86b79f5a78f6e6cec4b679da8d0b9a245f9f8e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\android.arch.core\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\android.arch.core-runtime-1.1.0_d92dd6700635271eca311a87870ab1f467c3f280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.1.0_a68984413e30c28063643a1a73410c597337e201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bd4eeb1fbec71a35f594c5d02b4beb3f970e3c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.1.1_822e4ab721d4b522ca2d963c3f12188ff5ced3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.1.1_168d81d90522413253c30ce99e6ad966dcca32e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_a0dcffa7eb3926cf84a6ea024d6ed22ec72f29c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_f3d56e133b82235c1a6f7c30066504ebf03a17fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_0357c24018053ae00abb456e3605b7df90f3148d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_4f67cfcb2ad600ec37e8e5dc4c8c65b02abe3a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_6502035cf06a4d5d0f2e8973787cdb48f9e00fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\Users\Mr.cool\Desktop\project\hellooo\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.1.1_6b51fd1d3786aea3f82c9bca4b51cb72bd3bc9eb.jar" />
+    </item>
+
+</items>
